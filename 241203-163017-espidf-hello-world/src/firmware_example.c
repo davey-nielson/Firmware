@@ -31,5 +31,5 @@
 // Main Function
 void app_main(void)
 {
-
+  printf("Failed to initialize HTTP client\n");
 }
